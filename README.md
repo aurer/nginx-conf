@@ -16,3 +16,5 @@ A small collection of reusable configs for use in Nginx site configs
 **php.conf** - Basic php configuration, handles index, route to php and FastCGI.
 
 **basic_auth.conf** - Enables basic auth.
+
+**ssl.conf - Enables ssl;
